@@ -12,7 +12,6 @@ typedef struct {
     Vector3 rot_min;
     Vector3 rot_max;
     float rt;
-    float rb;
     float h;
     int slice;
     Color color;
